@@ -1,0 +1,40 @@
+﻿Total Employees,1470
+Employees Left,237
+Attrition Rate,16.12%
+Average Salary,"₹ 6,502.93"
+Average Age,36.92
+Employees by Department,
+Row Labels,Count of EmployeeNumber
+Human Resources,63
+Research & Development,961
+Sales,446
+Grand Total,1470
+Attrition by Department,
+Row Labels,Sum of Attrition Flag
+Human Resources,12
+Research & Development,133
+Sales,92
+Grand Total,237
+Attrition by Gender,
+Row Labels,Sum of Attrition Flag
+Female,87
+Male,150
+Grand Total,237
+Attrition by Age Group,
+Row Labels,Sum of Attrition Flag
+Mid-Career,112
+Senior,34
+Young,91
+Grand Total,237
+Average Salary by Job Role,
+Row Labels,Average of MonthlyIncome
+Healthcare Representative,7528.763359
+Human Resources,4235.75
+Laboratory Technician,3237.169884
+Manager,17181.67647
+Manufacturing Director,7295.137931
+Research Director,16033.55
+Research Scientist,3239.972603
+Sales Executive,6924.279141
+Sales Representative,2626
+Grand Total,6502.931293
